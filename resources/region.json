@@ -1,0 +1,128 @@
+{
+	"code": "001",
+	"name": "World",
+	"regions": {
+		"002": {
+			"code": "002",
+			"name": "Africa",
+			"subRegions": {
+				"011": {
+					"code": "011",
+					"name": "Western Africa"
+				},
+				"014": {
+					"code": "014",
+					"name": "Eastern Africa"
+				},
+				"015": {
+					"code": "015",
+					"name": "Northern Africa"
+				},
+				"017": {
+					"code": "017",
+					"name": "Middle Africa"
+				},
+				"018": {
+					"code": "018",
+					"name": "Southern Africa"
+				}
+			}
+		},
+		"009": {
+			"code": "009",
+			"name": "Oceania",
+			"subRegions": {
+				"053": {
+					"code": "053",
+					"name": "Australasia"
+				},
+				"054": {
+					"code": "054",
+					"name": "Melanesia"
+				},
+				"057": {
+					"code": "057",
+					"name": "Micronesian Region"
+				},
+				"061": {
+					"code": "061",
+					"name": "Polynesia"
+				},
+				"QO": {
+					"code": "QO",
+					"name": "Outlying Oceania"
+				}
+			}
+		},
+		"019": {
+			"code": "019",
+			"name": "Americas",
+			"subRegions": {
+				"005": {
+					"code": "005",
+					"name": "South America"
+				},
+				"013": {
+					"code": "013",
+					"name": "Central America"
+				},
+				"021": {
+					"code": "021",
+					"name": "Northern America"
+				},
+				"029": {
+					"code": "029",
+					"name": "Caribbean"
+				}
+			}
+		},
+		"142": {
+			"code": "142",
+			"name": "Asia",
+			"subRegions": {
+				"030": {
+					"code": "030",
+					"name": "Eastern Asia"
+				},
+				"034": {
+					"code": "034",
+					"name": "Southern Asia"
+				},
+				"035": {
+					"code": "035",
+					"name": "Southeast Asia"
+				},
+				"143": {
+					"code": "143",
+					"name": "Central Asia"
+				},
+				"145": {
+					"code": "145",
+					"name": "Western Asia"
+				}
+			}
+		},
+		"150": {
+			"code": "150",
+			"name": "Europe",
+			"subRegions": {
+				"039": {
+					"code": "039",
+					"name": "Southern Europe"
+				},
+				"151": {
+					"code": "151",
+					"name": "Eastern Europe"
+				},
+				"154": {
+					"code": "154",
+					"name": "Northern Europe"
+				},
+				"155": {
+					"code": "155",
+					"name": "Western Europe"
+				}
+			}
+		}
+	}
+}
