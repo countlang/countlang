@@ -1,6 +1,11 @@
 CountLang
 ==============================
 
+[![Release](https://img.shields.io/packagist/v/countlang/countlang.svg)](https://packagist.org/packages/countlang/countlang)
+[![Build Status](https://img.shields.io/travis/countlang/countlang/master.svg)](http://travis-ci.org/countlang/countlang)
+[![Code Coverage](https://img.shields.io/coveralls/countlang/countlang/master.svg)](https://coveralls.io/r/countlang/countlang)
+[![License](https://img.shields.io/packagist/l/countlang/countlang.svg)](https://raw.githubusercontent.com/countlang/countlang/master/LICENSE)
+
 CountLang is a PHP library for the [Unicode CLDR](http://cldr.unicode.org) project.
 
 ## Summary
