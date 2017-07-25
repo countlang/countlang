@@ -35,10 +35,10 @@ Include composer loader and use library interface:
 require __DIR__ . '/vendor/autoload.php';
 
 // include library interface
-use CountLang\Countlang;
+use CountLang\CountLang;
 
 // initialize CountLand interface
-$countLang = new Countlang();
+$countLang = new CountLang();
 ```
 
 #### Country
